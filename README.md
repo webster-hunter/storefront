@@ -37,12 +37,12 @@ A simple e-commerce platform where users can register, browse products, add them
 ### 10. Recommendation Engine
 - Suggest products based on user history.
 
-## Technologies/Frameworks Used
+## Technologies/Frameworks to be Used
 
 - **Backend**: Java with Spring Boot.
-- **Database**: MySQL/PostgreSQL/MongoDB.
-- **Frontend**: Thymeleaf or integrate with React/Angular.
+- **Database**: MySQL.
+- **Frontend**: Integrate with React/Angular.
 - **Version Control**: Git.
-- **Testing**: JUnit, Mockito, and Spring Test.
+- **Testing**: JUnit and Spring Test.
 - **Documentation**: JavaDoc and Swagger.
-- **Deployment**: Docker, Heroku/AWS/Azure.
+- **Deployment**: Docker and AWS.
